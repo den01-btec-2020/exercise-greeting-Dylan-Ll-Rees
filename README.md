@@ -25,3 +25,4 @@ Example output when user gives the name Lily.
 *Lily*
 Hi Lily
 ```
+[![Run on Repl.it](https://repl.it/badge/github/den01-btec-2020/exercise-greeting-Dylan-Ll-Rees)](https://repl.it/github/den01-btec-2020/exercise-greeting-Dylan-Ll-Rees)
